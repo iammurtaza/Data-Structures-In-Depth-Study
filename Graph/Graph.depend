@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1479636306 source:c:\users\asus\downloads\c++\data structures\graph\main.cpp
+	<iostream>
+	<list>
+	<queue>
+	<stack>
+

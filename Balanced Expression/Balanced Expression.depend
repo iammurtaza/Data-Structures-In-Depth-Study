@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1476817488 source:c:\users\asus\downloads\murtaza\c++\data structures\balanced expression\main.cpp
+	<iostream>
+	<string>
+	<stack>
+
